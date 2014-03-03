@@ -1,0 +1,24 @@
+{
+  "name": "browserify-typescript",
+  "version": "0.0.1",
+  "description": "Browserify typescript transcoder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kjvalencik/browserify-typescript.git"
+  },
+  "keywords": [
+    "browserify",
+    "typescript"
+  ],
+  "author": "K.J. Valencik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjvalencik/browserify-typescript/issues"
+  },
+  "homepage": "https://github.com/kjvalencik/browserify-typescript",
+  "dependencies": {
+    "through": "~2.3.4",
+    "typestring": "~0.9.7"
+  }
+}
